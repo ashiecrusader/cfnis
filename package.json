@@ -1,0 +1,28 @@
+{
+  "name": "stunning-waffle-main",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000v\u0000e\u0000r\u0000y\u0000 \u0000c\u0000o\u0000o\u0000l\u0000 \u0000b\u0000o\u0000t\u0000 \u0000r\u0000e\u0000c\u0000o\u0000m\u0000m\u0000e\u0000n\u0000d\u0000e\u0000d\u0000 \u0000f\u0000o\u0000r\u0000 \u0000y\u0000o\u0000u\u0000r\u0000 \u0000m\u0000o\u0000m\u0000 \u0000e\u0000z\u0000e\u0000z\u0000e\u0000z\u0000\r\u0000 \u0000\r\u0000 \u0000#\u0000 \u0000p\u0000s\u0000 \u0000u\u0000r\u0000 \u0000s\u0000o\u0000 \u0000c\u0000o\u0000o\u0000l\u0000 \u0000l\u0000i\u0000k\u0000e\u0000 \u0000u\u0000g\u0000h\u0000 \u0000<\u00003\u00003\u00003\u00003\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^0.8.2",
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "axios": "^0.25.0",
+    "colors": "^1.4.0",
+    "discord-api-types": "^0.24.0",
+    "discord.js": "^13.6.0",
+    "firebase": "^9.6.4",
+    "firebase-admin": "^10.0.2",
+    "firebase-functions": "^3.18.0",
+    "mongoose": "^6.1.7",
+    "noblox.js": "^4.13.0",
+    "nodemon": "^2.0.15",
+    "ping": "^0.4.1",
+    "trello": "^0.11.0"
+  }
+}
